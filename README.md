@@ -70,4 +70,4 @@ This readme describes the practical steps of how to host and format a resume usi
 * [GitHub Pages supported Themes](https://pages.github.com/themes/)
 
 ## Authors and Acknowledgements
-This structure of this README was derived from Billie Thompson's template [PurpleBooth](https://github.com/PurpleBooth)
+The structure of this README was derived from Billie Thompson's template [PurpleBooth](https://github.com/PurpleBooth)
