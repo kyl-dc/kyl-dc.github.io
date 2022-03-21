@@ -64,5 +64,10 @@ This readme describes the practical steps of how to host and format a resume usi
 17. Choose the desired theme for your resume and click Select theme
 
 ## More Resources
+* [Markdown Tutorial by CommonMark](https://commonmark.org/help/tutorial/)
+* [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+* [GitHub Pages supported Themes](https://pages.github.com/themes/)
 
 ## Authors and Acknowledgements
+This structure of this README was derived from Billie Thompson's template [PurpleBooth](https://github.com/PurpleBooth)
