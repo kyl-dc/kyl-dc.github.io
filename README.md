@@ -1,4 +1,4 @@
-# How to Host and Format a Resume using Markdown, Visual Studio Code, Jekyll, and GitHub Pages
+# How to Host a Resume on GitHub Pages
 
 ## Purpose
 
@@ -31,13 +31,13 @@ This readme describes the practical steps of how to host and format a resume usi
 4. Clone your new repository
     * Drop your new repository's URL that you copied earlier!
 
-5. Create an index.md file
+5. Create an `index.md` file
     * This will hold your Markdown formatted resume
 
-6. Create a README.md file
+6. Create a `README.md` file
     * A standard file for any documentation about your page
 
-7. Create a _config.yml file
+7. Create a `_config.yml` file
     * This file will your page's configuration settings such as the Jekyll theme for your resume
 
 8. Commit your changes locally
@@ -66,8 +66,17 @@ This readme describes the practical steps of how to host and format a resume usi
 ## More Resources
 * [Markdown Tutorial by CommonMark](https://commonmark.org/help/tutorial/)
 * [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 * [GitHub Pages supported Themes](https://pages.github.com/themes/)
+* [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 ## Authors and Acknowledgements
-The structure of this README was derived from Billie Thompson's template [PurpleBooth](https://github.com/PurpleBooth)
+* **Kyle Calinisan** - _Author_ - [kyl-dc](https://github.com/kyl-dc) 
+* **Billie Thompson** - _Provided README Template_ - [PurpleBooth](https://github.com/PurpleBooth)
+* Technical documentation concepts and ideas were referenced from [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) by Andrew Etter.
+
+## FAQs (Frequently Asked Questions)
+**1. Why is Markdown better than a word processor?**
+Markdown is the most widely used lightweight markup language. (Etter, 2016) Compared to a word processor, Markdown is simply a plain text formatting syntax that makes it much easier to use. Additionally, the simplicity of Markdown makes it easier to learn without having several other buttons and functions for formatting like a word processor.
+
+**2. Why is the selected theme not applying onto my resume?**
+It may take around 5-10 minutes for your theme to render onto your resume. After changing the theme, you may view the GitHub Pages workflow under the Actions tab to see the changes being deployed onto your static website. If you are still unable to see the theme on your resume, try refreshing and deleting your browser cache. 

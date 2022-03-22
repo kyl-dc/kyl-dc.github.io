@@ -1,5 +1,5 @@
 # Kyle Calinisan
-Phone: (204) ...-....
+Phone: (204) 999-2340
 
 Email: calinisk@myumanitoba.ca 
 
