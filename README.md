@@ -86,7 +86,7 @@ Your resume will be hosted using GitHub Pages with a supported Jekyll theme also
 
 Here's a quick walkthrough of steps 11-18:
 
-![Theme](https://media.giphy.com/media/oVkWwScYiqxGbtRydV/giphy.gif)
+![Theme](https://media.giphy.com/media/BvJcLFrOP0AvHAVdAy/giphy.gif)
 
 19. View your _themed_ static website at __https://\<username\>.github.io/__
     * See: [Why is my selected theme not rendering?](#faqs-frequently-asked-questions)
