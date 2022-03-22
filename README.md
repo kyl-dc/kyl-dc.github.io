@@ -93,7 +93,7 @@ Here's a quick walkthrough of steps 11-18:
 
 20. Congratulations! You've hosted your own resume on GitHub Pages!
 
-Here's how an example of the end result:
+Here's an example of the end result:
 
 ![Kyle Resume](images/ResumeDone.png)
 
